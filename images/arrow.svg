@@ -1,0 +1,14 @@
+<svg width="75" height="75" xmlns="http://www.w3.org/2000/svg" text-rendering="geometricPrecision" shape-rendering="geometricPrecision">
+
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_1">
+   <g id="svg_2">
+    <line id="svg_3" stroke-width="2" stroke="#ffffff" fill="#ffffff" y2="25.04628" x2="7.4711" y1="37.5" x1="37.49999"/>
+    <line id="svg_4" stroke-width="2" stroke="#ffffff" fill="#ffffff" y2="37.5" x2="37.5" y1="25.30043" x1="67.52889"/>
+   </g>
+   <line id="svg_5" stroke-width="2" stroke="#ffffff" fill="#ffffff" y2="37.5" x2="7.47111" y1="49.95372" x1="37.5"/>
+   <line id="svg_6" stroke-width="2" stroke="#ffffff" fill="ffffff" y2="49.95372" x2="37.5" y1="37.5" x1="67.5289"/>
+  </g>
+ </g>
+</svg>
