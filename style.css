@@ -182,7 +182,7 @@ nav a {
 .step-cards-wrapper {
     display: flex;
     flex-flow: row wrap;
-    justify-content: space-between;
+    justify-content: space-evenly;
 }
 
 .step-card {
@@ -219,7 +219,7 @@ nav a {
 }
 
 .step-card>h3 {
-    max-width: 30ch;
+    max-width: 20ch;
     flex: 0;
 }
 
