@@ -174,6 +174,55 @@ nav a {
     border-radius: 40px 0px;
 }
 
+.steps>h1 {
+
+    text-align: center;
+}
+
+.step-cards-wrapper {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+}
+
+.step-card {
+    border: 4px #90a82b solid;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 16px;
+    word-spacing: 2px;
+    color: #000000;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+    text-transform: none;
+    padding: 2ch 4ch;
+    text-align: center;
+    margin: 10px 2ch;
+}
+
+.step-card a:link {
+    color: #90a82b;
+    text-decoration: underline;
+}
+
+.step-card>div {
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 50%;
+}
+
+.step-card>div>img {
+    height: 50px;
+
+}
+
+.step-card>h3 {
+    max-width: 30ch;
+    flex: 0;
+}
+
 @media screen and (min-width: 800px) {
     .hero-container img {
         width: 100vw;
